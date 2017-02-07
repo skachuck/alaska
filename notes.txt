@@ -1,0 +1,4 @@
+FEB 6 2017
+Todo:
+    [1] Compute just the elastic (t=0) response for order numbers up top 560
+    [2] 

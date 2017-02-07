@@ -1,2 +1,1 @@
-# alaska
-Compute glacial isostatic adjustment in present day Glacier Bay
+# Compute glacial isostatic adjustment of Alaskan glaciers
