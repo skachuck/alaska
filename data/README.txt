@@ -1,6 +1,6 @@
 Ice elevation change rates (dh/dt) for Glacier Bay, the Juneau icefield, and the Stikine icefield in SE Alaska compiled from SRTM, ASTER, and Worldview imagery
 spanning the years 2000-2014 (Melkonian et al., 2012, 2014, 2016).
-Pixel resolution is 90m and the format of the files is
+Pixel resolution is 0.01 degree and the format of the files is
 
 longitude        latitude     dh/dt( in m/yr)
 
@@ -30,3 +30,5 @@ GPS:
 Sato, Tadahiro, et al. "Reevaluation of the viscoelastic and elastic 
 responses to the past and present-day ice changes in Southeast Alaska."
 Tectonophysics 511.3 (2011): 79-88.
+
+
